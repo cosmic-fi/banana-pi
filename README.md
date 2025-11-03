@@ -84,7 +84,7 @@ MIT © Cosmic-fi
 
 - **Website:** [https://bananapi.cosmicfi.dev](https://bananapi.cosmicfi.dev)
 - **GitHub:** [https://github.com/cosmic-fi/banana-pi](https://github.com/cosmic-fi/banana-pi)
-- **Twitter:** [@yourhandle](https://twitter.com/cosmicxfi)
+- **Twitter:** [@cosmicxfi](https://twitter.com/cosmicxfi)
 
 ---
 
