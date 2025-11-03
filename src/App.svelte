@@ -17,7 +17,7 @@
 		<p class="subtitle">
 			A clean tool to explore HTTP APIs with live requests and JSON formatting.
 		</p>
-		<a href="https://gitub.com/cosmic-fi/banana-pi" class="githublink">
+		<a href="https://github.com/cosmic-fi/banana-pi" class="githublink">
 			<i class="fa-brands fa-github"></i> View on GitHub
 		</a>
 	</header>
