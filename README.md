@@ -1,3 +1,5 @@
+<img width="1640" height="664" alt="New Project" src="https://github.com/user-attachments/assets/149d309d-73e1-44fd-9873-bb2a4615d80e" />
+
 # 🍌 Banana Pi — The Sweetest Way to Visualize APIs 😂
 
 > Turn boring JSON into beautiful data you can actually *read*.
