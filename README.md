@@ -1,5 +1,5 @@
 <a href="https://bananapi.cosmicfi.dev">
-<img width="1640" height="664" alt="New Project" src="https://github.com/user-attachments/assets/149d309d-73e1-44fd-9873-bb2a4615d80e" />
+  <img width="1352" height="639" alt="brave_screenshot_bananapi cosmicfi dev" src="https://github.com/user-attachments/assets/3f67794e-80fc-4a90-bfbd-aa3524cfb247" />
 </a>
 
 # 🍌 Banana Pi — The Sweetest Way to Visualize APIs 😂
